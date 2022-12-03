@@ -8,4 +8,4 @@ Contains code, info, and other sharable resources related to the operation of th
 
 ### Simple Python-based RSS to Mastodon Account Script (for AWS Lambda)
 
-[simple-py-rss-to-mastodon](`https://github.com/theatl-social/simple-py-rss-to-mastodon`)
+- [simple-py-rss-to-mastodon](https://github.com/theatl-social/simple-py-rss-to-mastodon)
